@@ -124,16 +124,16 @@ $ git stash pop
 5. Issue - 対応するIssue
 
 ```
-# 🌱 :seedling: Initial commit.
-# 🔥 :fire: Update some features.
-# ✨ :sparkles: Introduce new features.
-# 🐛 :bug: Fix a bug.
-# ⚡️ :zap: Refactor code, Improve performance.
-# 📚 :books: Add or update documentation.
-# 🔧 :wrench: Add or edit configuration files.
-# 🚀 :rocket: Deploy stuff.
-# 🧬 :dna: Merge branches.
-# 🧪 :test_tube: Update test
+# 🌱 :seedling: Init
+# 🔥 :fire: Update
+# ✨ :sparkles: New features
+# 🐛 :bug: Fix bug
+# ⚡️ :zap: Refactor, Improve
+# 📚 :books: Docs
+# 🔧 :wrench: Config
+# 🚀 :rocket: Deploy
+# 🧬 :dna: Merge
+# 🧪 :test_tube: Test
 ```
 
 コミットメッセージの書き方は以下の記事を参考にする、ただし中級者向けなので流し見で十分。
